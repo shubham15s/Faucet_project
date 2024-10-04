@@ -1,2 +1,4 @@
 myenv
+db.sqlite3
 faucet_project/config.py
+.env
